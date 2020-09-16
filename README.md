@@ -5,9 +5,11 @@
 
 [Dribbble shot](https://dribbble.com/shots/14201524-Pet-App)  
 
+### Developed with Expo 🚀
 
+### Install
+ > 👉 yarn install or npm install
 ### Run
- > 👉 yarn install or npm install \n
  > 👉 yarn start
  
-### Developed with Expo 🚀
+
